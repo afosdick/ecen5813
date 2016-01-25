@@ -97,6 +97,8 @@ onto the origin/master branch
 #  Pushing changes Commands
 #------------------------------------------------------------
 
+******* NEVER FORCE PUSH ANY COMMITS
+
 Pushing a particular branch to the master branch in the
 origin repository 
   git push origin master
