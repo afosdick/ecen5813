@@ -1,5 +1,4 @@
-###This file is for use of the university of Colorado at Boulder
-###Embedded Systems Engineering Professional Masters Program.
+###This file is for use of the university of Colorado at Boulder Embedded Systems Engineering Professional Masters Program.
 
 ###This is a free library to be used for teaching ECEN5013. 
 
@@ -8,6 +7,7 @@
 ###Current Semester: Spring
 
 **Adding yourself to the student files**
+
 **Steps**
 
 1) Modify the students.json file in the top level directory of this repo. You will need to add a unique username key and a couple of characteristics. When you add a new line, but a comma on the previous line before adding to the bottom. See example below.
