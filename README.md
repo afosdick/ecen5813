@@ -10,7 +10,7 @@
 
 **Steps**
 
-1) Modify the students.json file in the top level directory of this repo. You will need to add a unique username key and a couple of characteristics. When you add a new line, but a comma on the previous line before adding to the bottom. See example below.
+1) Modify the students.json file in the top level directory of this repo. You will need to add a unique username key and a couple of characteristics. When you add a new line, put a comma on the previous line before adding to the bottom. See example below.
 
   *format:*
   ```
