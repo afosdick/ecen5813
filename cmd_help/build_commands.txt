@@ -1,0 +1,27 @@
+Build Command help:
+
+
+#------------------------------------------------------------
+#  Build Commands
+#------------------------------------------------------------
+
+Compile a file with the native compiler
+  gcc main.c -o main
+
+Compiler a file with a specific compiler
+  arm-linux-gnueabihf-gcc main.c -o main
+
+Compile and link the main.c file, pass the option "-Map main.map"
+down to the linker
+  gcc main.c -Wl,-Map,main.map  -o main
+
+Copy a file from your linux machine onto your BeagleBone
+  scp main root@192.168.7.2:/home/debian/bin
+
+Convert your main executable file back to full system assembly
+file
+  objdump -D main | less
+
+Convert your main executable back to just the assembly that
+makes up the main.c file
+  objdump -S -d main > main.dump
