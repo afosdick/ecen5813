@@ -6,7 +6,12 @@
   {"Swami":{"movie":"Bajrangi Baaijan"}},
   {"dSouthard":{"movie":"How to Train Your Dragon"}},
   {"aaresh":{"movie":"The Rock"}},
+<<<<<<< HEAD
   {"abhilash":{"movie":"Indiana Jones"}},
   {"aayushi":{"movie":"Orphan"}},
+=======
+  {"abhilash":{"movie":"Gladiator"}},
+  {"aayushi":{"movie":"Orphan"}}
+>>>>>>> Abhilash added a movie
   {"nathan":{"movie":"The Martian"}}
 }
