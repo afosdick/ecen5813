@@ -1,5 +1,6 @@
 {
   {"afosidck":{"movie":"Wall-E"}},
+<<<<<<< HEAD
   {"szhang":{"movie":"The Departed"}},
   {"szhang2":{"movie":"I-Robot"}},
   {"smhicks":{"movie":"Requiem for a Dream"}},
@@ -13,4 +14,10 @@
   {"harshils18":{"movie":"Fight Club"}},
   {"zapv1348":{"movie":"Reservoir Dogs"}},
   {"madansanya":{"movie":"Apollo13"}}
+=======
+  {"szahang":{"movie":"The Departed"}}
+  {"szhang2":{"movie":"I-Robot"}}
+  {"smhicks":{"movie":"Requiem for a Dream"}}
+  {"ikhader":{"movie":"Fargo"}}
+>>>>>>> Added my favorite movie!
 }
