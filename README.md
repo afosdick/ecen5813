@@ -4,7 +4,7 @@
 
 ###Class:  ECEN5013 - Embedded Software Essentials
 ###Current Year: 2016
-###Current Semester: Spring
+###Current Semester: Summer
 
 **Adding yourself to the student files**
 
