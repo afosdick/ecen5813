@@ -117,10 +117,3 @@ Pushing a specific user and url to a remote repo using ssh
   git show-ref HEAD
   git show-ref branch
 
-gcc main.c -o main
-arm-linux-gnueabihf-gcc main.c -o main
-scp main root@192.168.7.2:/home/debian/bin
-
-objdump -D main | less
-objdump -S -d main > main.dump
-gcc main.c -Wl,-Map,main.map  -o main

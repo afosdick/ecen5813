@@ -4,7 +4,7 @@
 
 ###Class:  ECEN5013 - Embedded Software Essentials
 ###Current Year: 2016
-###Current Semester: Summer
+###Current Semester: Fall
 
 **Adding yourself to the student files**
 
@@ -27,7 +27,7 @@
   }
   ```
 
-2) Change directories into the students_spr16 folder and add a file with the same name as the file you put in the above code.
+2) Change directories into the students_fal2016 folder and add a file with the same name as the file you put in the above code.
         ```
         $ cd ./students
         $ touch indentikey_username.json
