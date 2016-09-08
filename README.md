@@ -33,7 +33,7 @@
         $ touch indentikey_username.json
         ```
 
-3) In this fill you are to add a block of formated test that gives details on your dream Super Power if you were a super hero. You need to add your hero name, your super power, if you have a cape (true/false), and if you have a cape, what the color of the cape would be. Example below.
+3) In this file you are to add a block of formated test that gives details on your dream Super Power if you were a super hero. You need to add your hero name, your super power, if you have a cape (true/false), and if you have a cape, what the color of the cape would be. Example below.
 
   *format:*
   ```
