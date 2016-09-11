@@ -1,6 +1,12 @@
 {
   "afosdick":{"file":"afosdick.json","name":"Alex Fosdick"},
+<<<<<<< HEAD
   "burinj":{"file":"burinj.json","name":"Micheal Burin"}
   "visu3975":{"file":"visu3975.json","name":"Vijoy SunilKumar"}
   "kapr3624":{"file":"kapr3624.json","name":"Kaushik Prakash"}
+=======
+  "burinj":{"file":"burinj.json","name":"Micheal Burin"},
+ "visu3975":{"file":"visu3975.json","name":"Vijoy SunilKumar" },
+ "Akshit21":{"file":Akshit21.json","name":"Akshit Shah"}
+>>>>>>> 90fe2089e74788090ac92bae4b361a7cbd49fdbc
 }
