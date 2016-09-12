@@ -3,18 +3,11 @@
   "burinj":{"file":"burinj.json","name":"Micheal Burin"},
   "visu3975":{"file":"visu3975.json","name":"Vijoy SunilKumar"},
   "kapr3624":{"file":"kapr3624.json","name":"Kaushik Prakash"},
-<<<<<<< HEAD
   "Akshit21":{"file":"Akshit21.json","name":"Akshit Shah"},
   "ash_gun":{"file":"ash_gun.json","folderpath":"~/Documents/git/ecen5013/students_fa2016","name":"Ashwath Gundepally"},
   "vigo9910":{"file":"vigo9910.json","name":"Vikhyat goyal" },
   "rama2538":{"file":"rama2538.json","name":"Rakesh S M"},
   "saku0711":{"file":"saku0711.json","name":"Sarang Kulkarni"},
-  "rhaun1":{"file":"rhaun1.json","folderpath":"~/students_fa2016","name":"Ryan Haun"}
-=======
- "Akshit21":{"file":Akshit21.json","name":"Akshit Shah"},
- "ash_gun":{"file":"ash_gun.json","folderpath":"~/Documents/git/ecen5013/students_fa2016","name":"Ashwath Gundepally"},
- "vigo9910":{"file":"vigo9910.json","name":"Vikhyat goyal" },
- "rama2538":{"file":"rama2538.json","name":"Rakesh S M"},
- "saku0711":{"file":"saku0711.json","name":"Sarang Kulkarni"},
->>>>>>> Adding my username and favorite movie
+  "rhaun1":{"file":"rhaun1.json","folderpath":"~/students_fa2016","name":"Ryan Haun"},
+  "gaga2284":{"file":"gaga2284.json","folderpath":"/home/ecen5013/students_fa2016","name":"Gaurav Gandhi"}
 }
