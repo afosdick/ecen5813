@@ -14,9 +14,17 @@
   "shva9978" :{"file": "shva9978.json"," folderpath":"Home/ecen5013/students_fa2016","name":"Shreyas Vasanthkumar"},
   "snsa8594":{"file":"snsa8594.json","folderpath":"/classroom/ecen5013/students_fa2016","name":"Snehal Sanghvi"},
   "behe2783":{"file":"behe2783.json", "name":"Ben Heberlein"},
+<<<<<<< 6b12985e5a50446fa00d1b3b3b600f835caafc65
   "aash3777":{"file":"aash3777.json","name":"Aagam Shah"},
   "baozhiyu0212":{"file":"baozhiyu0212.json","folderpath":"Home/ecen5013/students_fa2016","name":"Baozhi Yu"},
  "omipurandare":{"file":"omipurandare.json", "name":"Omkar Purandare"},
 "sasa2453":{"file":"sasa2453","folderpath":"Home/ecen5013/students_fa2016","name":"sahana sadagopan"},
+=======
+  "aash3777":{"file":"aash3777.json","name"::"Aagam Shah"},
+  "baozhiyu0212":{"file":"baozhiyu0212.json","folderpath":"Home/ecen5013/students_fa2016","name"::"Baozhi Yu"},
+ "omipurandare":{"file":"omipurandare.json", "name":"Omkar Purandare"},
+  "ric1234":{"file":"ric1234.json","folderpath":"/home/richard/Documents/Test_git/hw_2/ecen5013/students_fa2016","name":"Richard Noronha"},
+ 
+>>>>>>> Changes_made! Additions added. Final touches added
 }
 
