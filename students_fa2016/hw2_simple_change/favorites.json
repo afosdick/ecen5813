@@ -16,11 +16,20 @@
   {"gauravgandhi70":{"movie":"Interstellar"}},
   {"smsanghvi":{"movie":"3 Idiots"}},
   {"aagamshah5195":{"movie":"YJHD"}},
+<<<<<<< b700992308ad3b05da353a51206c32a92a6778a3
   {"shreyas5225":{"movie":"The Prestige"}},
   {"omipurandare":{"movie":"Lakshay"}},
   {"bheberlein":{"movie":"Memento"}},
 {"sahanasadagopan":{"movie":"interstellar"}},
 {"sral4054":{"movie":"The Prestige"}},
   {"baozhi":{"movie":"Don't breath"}}
+  {"ric1234":{movie":"The Godfather"}},
+=======
+<<<<<<< 823e76eadc824c263ef97a28e42675d87cb4d607
+  {"shreyas5225":{"movie":"The Prestige"}}
+=======
+  {"omipurandare":{"movie":"Lakshay"}}
 
-}
+>>>>>>> Omkar added his fav movie.. haha#firstcommit
+=======
+ }
