@@ -1,5 +1,9 @@
 {
-{"arsw7501_Arundhathi":{"movie": "Pride and Prejudice"}
+ 94ea1d88c62ea6ff2521aaa29b7942cb8c54903d
+{"arsw7501_Arundhathi":{"movie": "Pride and Prejudice"}},
+
+  {"vija5019":{"movie":"dil dhadakne do"}},
+ Adding name and movie
   {"belgiumkansas":{"movie":"Hackers"}},
   {"afosidck":{"movie":"Wall-E"}},
   {"szhang":{"movie":"I-Robot"}},
@@ -35,19 +39,19 @@
   {"saka2821" :{"movie" :"Inception"}},
   {"shgu1157":{"movie":"Leon: The Professional"}}, 
   {"niharikasarode":{"movie":"Armageddon"}},
-  {"sayanbarman":{"movie":"The Pursuit of Happyness"}}                          <<<<<< 3d45c376242b7dd0bfbafb17281b8163124c2c86
+  {"sayanbarman":{"movie":"The Pursuit of Happyness"}}                         3d45c376242b7dd0bfbafb17281b8163124c2c86
   {"shsa5563": {"movie":"The X-Men"}}
-=======
+
 
 
   {"tesh5185":{"movie":"The Dark Knight"}},
->>>>>>> Happy for now
-  {"raghav6092":{"movie":"3Idiots"}},
-<<<<<<< 85cb2afd1e53a852a79421715eedabf1a9e7e142
+ Happy for now
+ {"raghav6092":{"movie":"3Idiots"}},
+ 85cb2afd1e53a852a79421715eedabf1a9e7e142
   {"prve0198":{"movie":"The Shawshank Redemption"}},
-=======
+
   {"sdavinash":{"movie":"Rangitaranga"}}
->>>>>>> Adding my username and favorite movie to the file.
+ Adding my username and favorite movie to the file.
 }
 
 {"dharmikthakkar":{"movie":"favmovie"}}
