@@ -1,8 +1,14 @@
 {
   {"afosidck":{"movie":"Inception", "show":"Bob's Burgers", "game":"Final Fantasy 8"}},
   {"rsanchez":{"movie":"Jan Quadrant Vincent 16", "show":"Baby Legs", "game":"Roy"}},
+<<<<<<< 330a7776d114288510a559cb149f6b01011f95e0
   {"jgrun":{"movie":"All About Steve", "show":"Battlestar Galactica", "game":"Civilization V"}},
   {"sava1915":{"movie":"Hitchhiker's guide to the galaxy", "show":"Futurama", "game":"TESV:Skyrim"}},
   {"VishalVishnani":{"movie":"Interstellar","show":"Sherlock","game":"Call of Duty"}},
   {"baldwinemb":{"movie":"Good Will Hunting", "show":"The West Wing", "game":"Settlers of Catan"}}
+=======
+  {"jgrun":{"movie":"All About Steve", "show":"Battlestar Galactica", "game":"Civilization V"}}
+  {"sava1915":{"movie":"Hitchhiker's guide to the galaxy", "show":"Futurama", "game":"TESV:Skyrim"}}
+  {"viga7710":{"movie":"Schindler's List", "show":"TVF Pitchers","game":"Tetris"}}
+>>>>>>> Adding Favorites,Before Rebase
 }
