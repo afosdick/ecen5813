@@ -1,6 +1,7 @@
 {
   {"afosidck":{"movie":"Inception", "show":"Bob's Burgers", "game":"Final Fantasy 8"}},
   {"rsanchez":{"movie":"Jan Quadrant Vincent 16", "show":"Baby Legs", "game":"Roy"}},
+<<<<<<< 6445837a169af054e8f3b669a6aa0b79e4d55d97
 <<<<<<< 330a7776d114288510a559cb149f6b01011f95e0
   {"jgrun":{"movie":"All About Steve", "show":"Battlestar Galactica", "game":"Civilization V"}},
   {"prpa2786":{"movie":"Chak De! India", "show":"Sherlock", "game":"Claw"}},
@@ -28,5 +29,8 @@
 >>>>>>> Adding favorites, Before jason
 =======
   {"shreyaverma165":{"movie":"Predestination", "show":"Sherlock", "game":"Call of Duty"}}
->>>>>>> prob_2
+
+
+  {"michellelynnrus":{"movie":"A Knight's Tale", "show":"Parks and Recreation", "game":"Ocarina of Time"}}
+
 }
