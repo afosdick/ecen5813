@@ -4,5 +4,9 @@
   "rymo8054":{"file":"rymo8054.json","name":"Ryan Mortenson"},
   "rsanchez":{"file":"rsanchez.json","name":"Rick Sanchez"},
   "jagr8284":{"file":"jagr8284.json","name":"Jacob Grunwald"},
+<<<<<<< 6e3fb9b32a586c9f7c3a441665b6f7371081cc0d
   "emba1337":{"file":"emba1337.json","name":"Emily Baldwin"}
+=======
+  "VishalVishnani":{"file":"VishalVishnani.json","name":"Vishal Vishnani"}
+>>>>>>> Adding my username to students.json file
 }
