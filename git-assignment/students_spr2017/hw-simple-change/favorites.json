@@ -11,6 +11,7 @@
 =======
   {"jgrun":{"movie":"All About Steve", "show":"Battlestar Galactica", "game":"Civilization V"}}
   {"sava1915":{"movie":"Hitchhiker's guide to the galaxy", "show":"Futurama", "game":"TESV:Skyrim"}}
+<<<<<<< HEAD
 <<<<<<< ff668c5a53b59121898845e0b5c24894efaa94d9
   {"viga7710":{"movie":"Deadpool","show":"TVF Pitchers","game":"Tetris"}},
 >>>>>>> Adding Favorites,Before Rebase
@@ -18,4 +19,7 @@
 =======
   {"shreyaverma165":{"movie":"Predestination", "show":"Sherlock", "game":"Call of Duty"}}
 >>>>>>> Adding favorites, Before jason
+=======
+  {"shreyaverma165":{"movie":"Predestination", "show":"Sherlock", "game":"Call of Duty"}}
+>>>>>>> prob_2
 }
