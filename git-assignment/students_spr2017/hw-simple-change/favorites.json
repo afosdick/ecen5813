@@ -7,7 +7,7 @@
   {"prpa2786":{"movie":"Chak De! India", "show":"Sherlock", "game":"Claw"}},
   {"sava1915":{"movie":"Hitchhiker's guide to the galaxy", "show":"Futurama", "game":"TESV:Skyrim"}},
   {"VishalVishnani":{"movie":"Interstellar","show":"Sherlock","game":"Call of Duty"}},
-  
+
   {"baldwinemb":{"movie":"Good Will Hunting", "show":"The West Wing", "game":"Settlers of Catan"}},
 <<<<<<< HEAD
   {"jeba5228":{"movie":"The Matrix","show":"Sherlock","game":"Call of Duty"}}
@@ -24,11 +24,7 @@
 <<<<<<< ff668c5a53b59121898845e0b5c24894efaa94d9
   {"viga7710":{"movie":"Deadpool","show":"TVF Pitchers","game":"Tetris"}},
 >>>>>>> Adding Favorites,Before Rebase
-  {"andreb":{"movie":"Heathers", "show":"Dr. Who", "game":"Lode Runner"}}
-=======
-  {"shreyaverma165":{"movie":"Predestination", "show":"Sherlock", "game":"Call of Duty"}}
->>>>>>> Adding favorites, Before jason
-=======
+  {"andreb":{"movie":"Heathers", "show":"Dr. Who", "game":"Lode Runner"}},
   {"shreyaverma165":{"movie":"Predestination", "show":"Sherlock", "game":"Call of Duty"}},
   {"ksudeep":{"movie":"Mad Max Fury Road", "show":"House of Cards", "game":"Counter Strike"}},
 
@@ -39,4 +35,9 @@
       "movie": "Star Trek",
       "show": "Rick and Morty",
       "game": "Rocket League"
+  },
+"shapirc": {
+      "movie": "High Fidelity",
+      "show": "Psych",
+      "game": "Half Life 2"
   }
