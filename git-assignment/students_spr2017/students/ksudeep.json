@@ -1,6 +1,4 @@
-{
-     "SuperHeroName": "Professor Prance",
-     "SuperPower": "Amazing dance moves",
-     "Cape": true,
-     "CapeColor": "Blue"
-   }
+"ksudeep": {
+      "file": "ksudeep.json",
+      "name": "Sudeep Kulkarni"
+  }
