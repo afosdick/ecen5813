@@ -1,5 +1,5 @@
-{
-  {"afosidck":{"movie":"Inception", "show":"Bob's Burgers", "game":"Final Fantasy 8"}},
+  {"m165":{"movie":"Predestination", "show":"Sherlock", "game":"Call of Duty"}}
+>>>>>>>afosidck":{"movie":"Inception", "show":"Bob's Burgers", "game":"Final Fantasy 8"}},
   {"rsanchez":{"movie":"Jan Quadrant Vincent 16", "show":"Baby Legs", "game":"Roy"}},
 <<<<<<< 6445837a169af054e8f3b669a6aa0b79e4d55d97
 <<<<<<< 330a7776d114288510a559cb149f6b01011f95e0
@@ -7,7 +7,7 @@
   {"prpa2786":{"movie":"Chak De! India", "show":"Sherlock", "game":"Claw"}},
   {"sava1915":{"movie":"Hitchhiker's guide to the galaxy", "show":"Futurama", "game":"TESV:Skyrim"}},
   {"VishalVishnani":{"movie":"Interstellar","show":"Sherlock","game":"Call of Duty"}},
-  
+
   {"baldwinemb":{"movie":"Good Will Hunting", "show":"The West Wing", "game":"Settlers of Catan"}},
 <<<<<<< HEAD
   {"jeba5228":{"movie":"The Matrix","show":"Sherlock","game":"Call of Duty"}}
@@ -24,13 +24,10 @@
 <<<<<<< ff668c5a53b59121898845e0b5c24894efaa94d9
   {"viga7710":{"movie":"Deadpool","show":"TVF Pitchers","game":"Tetris"}},
 >>>>>>> Adding Favorites,Before Rebase
-  {"andreb":{"movie":"Heathers", "show":"Dr. Who", "game":"Lode Runner"}}
-=======
-  {"shreyaverma165":{"movie":"Predestination", "show":"Sherlock", "game":"Call of Duty"}}
->>>>>>> Adding favorites, Before jason
-=======
-  {"shreyaverma165":{"movie":"Predestination", "show":"Sherlock", "game":"Call of Duty"}}
-
+<<<<<<< ea49447b6333152939a8a9caf072ca534f3c8c3e
+  {"andreb":{"movie":"Heathers", "show":"Dr. Who", "game":"Lode Runner"}},
+  {"shreyaverma165":{"movie":"Predestination", "show":"Sherlock", "game":"Call of Duty"}},
+  {"ksudeep":{"movie":"Mad Max Fury Road", "show":"House of Cards", "game":"Counter Strike"}},
 
   {"michellelynnrus":{"movie":"A Knight's Tale", "show":"Parks and Recreation", "game":"Ocarina of Time"}}
 
@@ -39,4 +36,24 @@
       "movie": "Star Trek",
       "show": "Rick and Morty",
       "game": "Rocket League"
-  }
+  },
+"shapirc": {
+      "movie": "High Fidelity",
+      "show": "Psych",
+      "game": "Half Life 2"
+  },
+=======
+  {"andreb":{"movie":"Heathers", "show":"Dr. Who", "game":"Lode Runner"}}
+=======
+  {"shreyaverma165":{"movie":"Predestination", "show":"Sherlock", "game":"Call of Duty"}}
+>>>>>>> Adding favorites, Before jason
+=======
+  {"shreyaverma165":{"movie":"Predestination", "show":"Sherlock", "game":"Call of Duty"}}
+>>>>>>> prob_2
+=======
+  {"SridharPavithrapu":{"movie":"InTime","show":"Arrow","game":"CallofDuty"}}
+  >>>>>>> Adding Favorites
+=======
+
+
+>>>>>>> Adding Favorites,Before Rebase
