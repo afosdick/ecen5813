@@ -37,6 +37,7 @@
       "show": "Rick and Morty",
       "game": "Rocket League"
   },
+<<<<<<< 4b3e8c437a9e44308752d2cb33a651833b587e34
 "shapirc": {
       "movie": "High Fidelity",
       "show": "Psych",
@@ -50,3 +51,10 @@
 
 
 >>>>>>> Adding Favorites,Before Rebase
+=======
+"aada5473_aada5473": {
+	"movie": "The Prestige",
+	"game": "Friend's",
+	"game": "DOTA 2"
+}		
+>>>>>>> Adding favourites, Before rebase
