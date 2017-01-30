@@ -1,0 +1,33 @@
+Run the following commands to test your environment
+
+Validate the tools are installed:
+  $ gcc --version
+  $ arm-linux-gnueabi-gcc --version
+  $ arm-linux-gnueabihf-gcc --version
+  $ arm-none-eabi-gcc --version
+  $ git --version
+
+Look at the output of the sl package:
+  $ sl
+
+Compile a file with the native compiler:
+  $ gcc main.c -o main_native
+  $ ./main_native
+
+Compiler a file with a specific compiler:
+  $ arm-linux-gnueabi-gcc main.c -o main_crossBBBsf
+  $ arm-linux-gnueabihf-gcc main.c -o main_crossBBBhf
+  $ arm-none-eabi-gcc main.c -o main_cross -mcpu=cortex-m0plus -mthum --specs=nosys.specs
+
+Copy files from your linux VM onto your BeagleBone and test that they work:
+  $ scp main_crossBBBhf root@192.168.7.2:/home/debian/bin
+  $ ssh root@192.168.7.2
+  $ cd /home/debian/bin
+  $ ./main_crossBBBhf
+
+Convert your main executable file back to full system assembly file:
+  $ arm-none-eabie-objdump -D main_cross -o main_cross.asm
+
+Check the Size Utility:
+  $ arm-none-eabi-size main.o
+

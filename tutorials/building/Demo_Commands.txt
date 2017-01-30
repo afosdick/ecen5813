@@ -1,0 +1,91 @@
+%=============================================================================
+%
+%    Compiling a single source file
+%
+%=============================================================================
+Below are the instructions use for the C1M2V2 Demo
+
+GCC is used in the following way on the command line
+  $ gcc [OPTIONS] [FILE-TO-COMPILE]
+
+%====================================
+%  Cross Preprocessor Example Commands
+%====================================
+  $ arm-none-eabi-gcc -std=c99 -Werror -mcpu=cortex-m0plus -E -o main.i main.c
+
+%====================================
+%  Native Compiler Example Commands
+%====================================
+This will compile and link. Also specifies the output file to store as the
+executable file (using the -o <FILE> option. All warnings will be treated as
+errors and use the c99 c-standard. The full executable is saved as a .out 
+because we want to differentiate it from individual object files in the
+the following examples
+  $ gcc -std=c99 -Werror -o main.out main.c
+
+This will compile and stop before link (-c option). All warnings will be
+enabled, use the c89 C-standard. Also use the -v verbose option to print lots
+of informaiton of what gcc is doing to the terminal.
+  $ gcc -std=c89 -Wall -v -c -o main.o main.c
+
+%====================================
+%  Cross Compiler Example Commands
+%====================================
+This will compile a BBB image with the ARM linux compiler
+  $ arm-linux-gnueabi-gcc -std=c99 -g -c -o main.o main.c
+
+%====================================
+%  Size your executable
+%====================================
+The commands below should take in an object file (or executable) and give you
+information back about how much space the compiled regions occupy.
+
+Format:
+  $ arm-none-eabi-size [OPTIONS] [TARGET_FILE]
+  $ arm-linux-gnueabi-size [OPTIONS] [TARGET_FILE]
+  $ size [OPTIONS] [TARGET_FILE]
+
+Examples:
+  $ arm-none-eabi-size -Btd main.out main.o my_file.o
+  $ arm-none-eabi-size -Bx main.out
+  $ arm-none-eabi-size -Ad my_memory.o
+  $ arm-none-eabi-size demo.out
+
+%=============================================================================
+%
+% Dumping compiled object code back to assembly
+%
+%=============================================================================
+%=====================================
+% Decoding the parts of the elf file
+%=====================================
+since the ELF format is not human readable, we can use the readelf command
+to provide data on the compiled and linked executable file
+ $ arm-none-eabi-readelf demo.out -all
+
+%=====================================
+% Decoding the parts of an object file
+%=====================================
+This will build only the my_file.o object file and then dump the compiled
+file to assembly (you will have to figure out how to compile my_file.o)
+ $ make my_file.o
+ $ arm-none-eabi-objdump --disassemble my_file.o > my_file.dump
+
+This will make for the target processor and then dump the compiled executable
+to assembly in the demo.dump file
+ $ make all
+ $ arm-none-eabi-objdump --disassemble main.out > main.asmdump
+
+=============================================================================
+
+ Converting your executable to other formats (SREC and IHEX)
+
+=============================================================================
+This will dump the executable output from make (a elf little endian format)
+into an intel hex record format
+ $ arm-none-eabi-objcopy -O ihex main.elf main.hex
+
+This will dump the executable output from make (a elf little endian format)
+into a Motorola S-record format
+ $ arm-none-eabi-objcopy -O srec main.elf main.s19
+
