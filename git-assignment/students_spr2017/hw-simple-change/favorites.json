@@ -1,73 +1,30 @@
-<<<<<<< HEAD
 {
   {"afosidck":{"movie":"Inception", "show":"Bob's Burgers", "game":"Final Fantasy 8"}},
-  {"rsanchez":{"movie":"Jan Quadrant Vincent 16", "show":"Baby Legs", "game":"Roy"}}
- {"visr2941":{"movie":"Pulp Fiction", "show":"Family Guy", "game":"---------"}}
-}
-=======
- {"m165":{"movie":"Predestination", "show":"Sherlock", "game":"Call of Duty"}}
->>>>>>>afosidck":{"movie":"Inception", "show":"Bob's Burgers", "game":"Final Fantasy 8"}},
   {"rsanchez":{"movie":"Jan Quadrant Vincent 16", "show":"Baby Legs", "game":"Roy"}},
-<<<<<<< 6445837a169af054e8f3b669a6aa0b79e4d55d97
-<<<<<<< 330a7776d114288510a559cb149f6b01011f95e0
+  {"visr2941":{"movie":"Pulp Fiction", "show":"Family Guy", "game":"---------"}},
+  {"m165":{"movie":"Predestination", "show":"Sherlock", "game":"Call of Duty"}},
   {"jgrun":{"movie":"All About Steve", "show":"Battlestar Galactica", "game":"Civilization V"}},
   {"prpa2786":{"movie":"Chak De! India", "show":"Sherlock", "game":"Claw"}},
   {"rymo8054":{"movie":"A Beautiful Mind", "show":"Steven Universe", "game":"Legend of Zelda: Majora's Mask"}},
   {"sava1915":{"movie":"Hitchhiker's guide to the galaxy", "show":"Futurama", "game":"TESV:Skyrim"}},
   {"VishalVishnani":{"movie":"Interstellar","show":"Sherlock","game":"Call of Duty"}},
-
   {"baldwinemb":{"movie":"Good Will Hunting", "show":"The West Wing", "game":"Settlers of Catan"}},
-<<<<<<< HEAD
-  {"jeba5228":{"movie":"The Matrix","show":"Sherlock","game":"Call of Duty"}}
-  {"Akshithachanda":{"movie":"Spirited Away","show":"The office","game":"CS"}}
-======
-=======
-  {"jeba5228":{"movie":"The Matrix","show":"Sherlock","game":"Dishonored"}}
-=======
->>>>>>> ff668c5a53b59121898845e0b5c24894efaa94d9
-  {"jgrun":{"movie":"All About Steve", "show":"Battlestar Galactica", "game":"Civilization V"}}
-  {"sava1915":{"movie":"Hitchhiker's guide to the galaxy", "show":"Futurama", "game":"TESV:Skyrim"}}
-  {"sudu7404":{"movie":"Gladiator", "show":"Game of thrones", "game":"Modern Warfare"}}
-<<<<<<< HEAD
-<<<<<<< ff668c5a53b59121898845e0b5c24894efaa94d9
+  {"jeba5228":{"movie":"The Matrix","show":"Sherlock","game":"Call of Duty"}},
+  {"Akshithachanda":{"movie":"Spirited Away","show":"The office","game":"CS"}},
+  {"jeba5228":{"movie":"The Matrix","show":"Sherlock","game":"Dishonored"}},
+  {"sava1915":{"movie":"Hitchhiker's guide to the galaxy", "show":"Futurama", "game":"TESV:Skyrim"}},
+  {"sudu7404":{"movie":"Gladiator", "show":"Game of thrones", "game":"Modern Warfare"}},
   {"viga7710":{"movie":"Deadpool","show":"TVF Pitchers","game":"Tetris"}},
->>>>>>> Adding Favorites,Before Rebase
-<<<<<<< ea49447b6333152939a8a9caf072ca534f3c8c3e
   {"andreb":{"movie":"Heathers", "show":"Dr. Who", "game":"Lode Runner"}},
   {"shreyaverma165":{"movie":"Predestination", "show":"Sherlock", "game":"Call of Duty"}},
   {"ksudeep":{"movie":"Mad Max Fury Road", "show":"House of Cards", "game":"Counter Strike"}},
-
   {"michellelynnrus":{"movie":"A Knight's Tale", "show":"Parks and Recreation", "game":"Ocarina of Time"}}
-
 },
-"prga9077": {
-      "movie": "Star Trek",
-      "show": "Rick and Morty",
-      "game": "Rocket League"
-  },
-<<<<<<< 4b3e8c437a9e44308752d2cb33a651833b587e34
-"shapirc": {
-      "movie": "High Fidelity",
-      "show": "Psych",
-      "game": "Half Life 2"
-  },
-=======
-  {"andreb":{"movie":"Heathers", "show":"Dr. Who", "game":"Lode Runner"}},
-  {"SridharPavithrapu":{"movie":"InTime","show":"Arrow","game":"CallofDuty"}}
-  >>>>>>> Adding Favorites
-=======
-=======
-  {"OmkarPrabhu":{"movie":"Munich","show":"Suits","game":"Counter Strike"}}
-  >>>>>>> Adding Favorites
-=======
-
->>>>>>> Adding Favorites,Before Rebase
-=======
-"aada5473_aada5473": {
-	"movie": "The Prestige",
-	"game": "Friend's",
-	"game": "DOTA 2"
-},
-  {"gani0294":{"movie":"Field of Dreams","show":"BReaking BAd","game":"CardsAgainst Humanity"}}
- {"visr2941":{"movie":"Pulp Fiction","show":"Family Guy","game":"--------"}} 
->>>>>>> cd5570ba9fd2457a9aeb9fd555952a6dd17f271c
+  {"prga9077": {"movie": "Star Trek", "show": "Rick and Morty","game": "Rocket League"}},
+  {"shapirc": {"movie": "High Fidelity","show": "Psych","game": "Half Life 2"}},
+  {"SridharPavithrapu":{"movie":"InTime","show":"Arrow","game":"CallofDuty"}},
+  {"OmkarPrabhu":{"movie":"Munich","show":"Suits","game":"Counter Strike"}},
+  {"aada5473_aada5473": {"movie": "The Prestige","game": "Friend's","game": "DOTA 2"}},
+  {"gani0294":{"movie":"Field of Dreams","show":"BReaking BAd","game":"CardsAgainst Humanity"}},
+  {"visr2941":{"movie":"Pulp Fiction","show":"Family Guy","game":"--------"}},
+}
