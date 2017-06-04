@@ -4,7 +4,7 @@
 
 ###Class:  ECEN5013 - Embedded Software Essentials
 ###Current Year: 2017
-###Current Semester: Spring
+###Current Semester: Summer
 
 **Adding yourself to the student files**
 
@@ -54,3 +54,5 @@
      "CapeColor": "Blue"
    }
    ```
+
+4) No git merge commands can be used. You must only use rebase for fixing any merge conflicts.
