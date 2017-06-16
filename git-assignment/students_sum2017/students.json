@@ -1,8 +1,11 @@
 {
   "afosdick":{"file":"afosdick.json","name":"Alex Fosdick"},
   "rsanchez":{"file":"rsanchez.json","name":"Rick Sanchez"},
-  "cardodulex" : {
+  "robl6469":{"file":"robl6469.json","name":"Robert Blazewicz"},
+  "cardoduplex" : {
       "file" : "cardoduplex.json",
       "name" : "Robert Blazewicz"
-  }
+  },
+  "jesc5667":{"file":"jesc5667.json","name":"Jeff Schornick"},
+  "clol5989":{"file":"clol5989.json","name":"Clint Olsen"}
 }
