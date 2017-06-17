@@ -12,9 +12,11 @@
   "sase8052":{"file":"sase8052.json","name":"Savitha Senguttuvan"},
   "sase6967":{"file":"sase6967.json","name":"Saritha Senguttuvan"},
   "srbh6464":{"file":"srbh6464.json","name":"Sreela Bhogaraju"},  
-  "viveksn89":{"file":"viveksn89.json","name":"Vivek Sankaranarayanan"}
-  "soak7822" {
+  "viveksn89":{"file":"viveksn89.json","name":"Vivek Sankaranarayanan"},
+  "soak7822":{
       "file" : "soak7822.json",
       "name" : "Sowmya Akella"
-  }
+  },
+  "viveksn89":{"file":"viveksn89.json","name":"Vivek Sankaranarayanan"},
+  "sase8052":{"file":"sase8052.json","name":"Savita Senguttuvan"}
 }
