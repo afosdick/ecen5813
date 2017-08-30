@@ -1,8 +1,24 @@
 {
   "afosdick":{"file":"afosdick.json","name":"Alex Fosdick"},
   "rsanchez":{"file":"rsanchez.json","name":"Rick Sanchez"},
+  "robl6469":{"file":"robl6469.json","name":"Robert Blazewicz"},
   "cardoduplex" : {
       "file" : "cardoduplex.json",
       "name" : "Robert Blazewicz"
-  }
+  },
+  "jesc5667":{"file":"jesc5667.json","name":"Jeff Schornick"},
+  "clol5989":{"file":"clol5989.json","name":"Clint Olsen"},
+  "rasu0090":{"file":"rasu0090.json","name":"Raj Kumar SUbramaniam"},
+  "sase8052":{"file":"sase8052.json","name":"Savitha Senguttuvan"},
+  "sase6967":{"file":"sase6967.json","name":"Saritha Senguttuvan"},
+  "jephilli":{"file":"jephilli.json","name":"James Phillips"},
+  "viveksn89":{"file":"viveksn89.json","name":"Vivek Sankaranarayanan"},
+  "soak7822":{
+      "file" : "soak7822.json",
+      "name" : "Sowmya Akella"
+  },
+  "viveksn89":{"file":"viveksn89.json","name":"Vivek Sankaranarayanan"},
+  "sase8052":{"file":"sase8052.json","name":"Savita Senguttuvan"},
+  "srbh6464":{"file":"srbh6464.json","name":"Sreela Bhogaraju"},
+  "jowa8177":{"file":"jowa8177.json","name":"Jordan Wachs"}
 }
