@@ -29,7 +29,7 @@ Note: Your BeagleBone may have a different IP number from the above commands.
       Recommend that you use your BeagleBone's IP number to run the above commands. 
 
 Convert your main executable file back to full system assembly file:
-  $ arm-none-eabie-objdump -D main_cross 
+  $ arm-none-eabi-objdump -D main_cross 
 
 Check the Size Utility:
   $ size main_native
