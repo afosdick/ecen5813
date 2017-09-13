@@ -1,7 +1,7 @@
 {
   "SuperHeroName":"SpiderMan",
   "SuperPower":"Can Climb the walls",
-  "Cape":true,
+  "Cape": false,
   "CapeColor":"Red"
 }
 
