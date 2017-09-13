@@ -23,6 +23,10 @@
   {"rheabcooper":{"movie":"wonder woman","show":"friends","game":"Taboo"}},
   {"AnayGondhalekar":{"movie":"Titanic", "show":"Game of Thrones","game":"Monopoly"}},
   {"harsimran2421":{"movie":"A wednesday","show":"Naruto","game":"speedking"}},
+<<<<<<< HEAD
   {"nwade100":{"movie":"Dorkness Rising","show":"America's Got Talent","game":"Destiny"}}
+=======
+  {"smitesh07":{"movie":"Now You See Me","show":"Suits","game":"FIFA"}}
+>>>>>>> Adding Favorites, Rebase Completed
 >>>>>>> Adding Favorites, Before Rebase
 }
