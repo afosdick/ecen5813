@@ -3,7 +3,7 @@
   {"rsanchez":{"movie":"Jan Quadrant Vincent 16", "show":"Baby Legs", "game":"Roy"}},
   {"orange757":{"movie":"Star Wars", "show":"American Ninja Warriors", "game":"Mario Go Kart"}},
   {"aaku8856":{"movie":"Rang De Basanti", "show":"House MD", "game":"Hitman-Agent47"}},
-  {"monishnene":{"movie":"Go Goa Gone","show":"Game of Thrones", "game":"Dota2"}} ,
+  {"monishnene":{"movie":"Go Goa Gone","show":"Game of Thrones", "game":"Dota2"}}, 
   {"NikhilDivekar7":{"movie":"The Dark Knight", "show":"DeathNote", "game":"Cricket"}}
   {"DiptarshiC":{"movie":"Sholay","show":"South park","show":"DEathnote","game":"Cricket"}}
   {"sanikadongre":{"movie":"Dangal", "show":"Suits", "game":"Ludo BING"}}
@@ -13,4 +13,20 @@
   {"tichkule":{"movie":"Shawshank Redemption", "show":"Westworld", "game":"Counterstrike"}}
   {"harsimran2421":{"movie":"A wednesday","show":"Naruto","game":"speedking"}}
   {"kyha9111": {"movie":"John Wick", "show": "My Hero Academia", "game": "Dota 2"}}
+  {"NikhilDivekar7":{"movie":"The Dark Knight", "show":"DeathNote", "game":"Cricket"}},
+  {"DiptarshiC":{"movie":"Sholay","show":"South park","show":"DEathnote","game":"Cricket"}},
+  {"sanikadongre":{"movie":"Dangal", "show":"Suits", "game":"Ludo BING"}},
+  {"AnayGondhalekar":{"movie":"Titanic", "show":"Game of Thrones","game":"Monopoly"}},
+  {"zakkjf":{"movie":"La Femme Nikita", "show":"The Expanse", "game":"Endless Sky"}},
+  {"rheabcooper":{"movie":"wonder woman","show":"friends","game":"Taboo"}},
+  {"AnayGondhalekar":{"movie":"Titanic", "show":"Game of Thrones","game":"Monopoly"}},
+  {"harsimran2421":{"movie":"A wednesday","show":"Naruto","game":"speedking"}},
+  {"nwade100":{"movie":"Dorkness Rising","show":"America's Got Talent","game":"Destiny"}},
+<<<<<<< 579ba945db963977a07b1a245fd8aa668c3d7a2d
+  {"smitesh07":{"movie":"Now You See Me","show":"Suits","game":"FIFA"}}
+  {"shivam3k":{"movie":"Bahubali","show":"Mars","game":"Asphalt Airborne 8"}}
+=======
+   {"arunsundark":{"movie":"Inception","show":"friends","game":"FIFA17"}},
+   {"vinayaksrivatsan":{"movie":"Rocky","show":"The Mentalist","game":"Cricket"}}
+>>>>>>>  adding favorites, before rebase
 }
