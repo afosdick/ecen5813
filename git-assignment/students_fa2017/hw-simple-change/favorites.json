@@ -28,9 +28,10 @@
 =======
    {"arunsundark":{"movie":"Inception","show":"friends","game":"FIFA17"}},
 <<<<<<< HEAD
-   {"vinayaksrivatsan":{"movie":"Rocky","show":"The Mentalist","game":"Cricket"}}
-=======
+   {"vinayaksrivatsan":{"movie":"Rocky","show":"The Mentalist","game":"Cricket"}},
    {"sowmya2910":{"movie":"Dead Silence","show":"FRIENDS","game":"Need for Speed"}}
+=======
+  
 >>>>>>> Adding Favorites, Before Rebase
 >>>>>>>  adding favorites, before rebase
 }
