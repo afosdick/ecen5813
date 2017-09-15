@@ -30,7 +30,6 @@
   "knagarjunareddy":{"file":"knagarjunareddy.json","name":"Nagarjuna Reddy Kovuru"},
   "Srikantgaikwad":{"file":"Srga5503.json", "name":"Srikant Gaikwad"},
   "AshishTak":{"file":"AshishTak.json","name":"Ashish Tak"},
-  "mansetagunj":{"file":"mansetagunj.json","name":"Gunj Manseta"},
   "radu1571":{"file":"radu1571.json","name":"Ravi Dubey"}, 
   "sharan":{"file":"sharan.json","name":"Sharanjeet Singh Mago"},
   "adamnuhaily":{"file":"adamnuhaily.json","name":"Adam Nuhaily"},
@@ -43,4 +42,5 @@
   "vipulgpt10":{"file":"vipulgpt10.json","name":"Vipul Gupta"},
   "santhosh7799":{"file":"santhosh7799.json","name":"Santhosh Thummanapalli"},
   "preshit":{"file":"preshit.json","name":"Preshit Harlikar"},
+  "mansetagunj":{"file":"mansetagunj.json","name":"Gunj H Manseta"}
 }
