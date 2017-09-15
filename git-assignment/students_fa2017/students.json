@@ -1,17 +1,30 @@
 {
   "afosdick":{"file":"afosdick.json","name":"Alex Fosdick"},
+  "kiranmadansar":{"file":"kiranmadansar.json","name":"Kiran Hegde"},
   "rsanchez":{"file":"rsanchez.json","name":"Rick Sanchez"},
   "orange757":{"file":"orange757.json","name":"Brian Kelly"},
   "orange757":{"file":"orange757.json","name":"Brian Kelly"},
   "aaku8856":{"file":"aaku8856.json","name":"Aakash Kumar"},
-  "rheabcooper":{"file":"rheabcooper.json","name":"Rhea Cooper"},
   "AnayGondhalekar":{"file":"AnayGondhalekar.json","name":"Anay Gondhalekar"},
   "zakkjf":{"file":"zakkjf.json","name":"Zach Farmer"},
   "monishnene":{"file":"monishnene.json","name":"Monish Nene"},
   "tichkule":{"file":"tichkule.json","name":"Shiril Tichkule"},
+  "harsimran2421":{"file":"harsimran2421.json","name":"Harsimransingh Bindra"},
+  "nawa1356":{"file":"nawa1356.json","name":"Nathaniel Wade"},
+  "kyha9111":{"file":"kyha9111.json","name":"Kyle Harlow"},
+  "sanikadongre":{"file":"sanikadongre.json","name":Sanika Dongre"},
+  "NikhilDivekar7":{"file":"NikhilDivekar7.json","name":"Nikhil Divekar"},
   "sanikadongre":{"file":"sanikadongre.json","name":"Sanika Dongre"},
   "harsimran2421":{"file":"harsimran2421.json","name":"Harsimransingh Bindra"},
   "nawa1356":{"file":"nawa1356.json","name":"Nathaniel Wade"},
   "kyha9111":{"file":"kyha9111.json","name":"Kyle Harlow"},
+<<<<<<< HEAD
   "vinayaksrivatsan":{"file":"vinayaksrivatsan.json","name":"Vinayak Srivatsan Kovalam Mohan"}
+=======
+  "nawa1356":{"file":"nawa1356.json","name":"Nathaniel Wade"},
+  "rheabcooper":{"file":rheabcooper.json","name":"Rhea Cooper"},
+  "shivam3k":{"file":"shivam3k.json","name":"Shivam Khandelwal"},
+  "glfe9139":{"file":"glfe9139.json","name":"Glenn Feinberg"},
+  "sowmya2910":{"file":"sowmya2910.json","name":"Sowmya Ramakrishnan"}
+>>>>>>> 2f86dffafcf956906757ea18f91d41e27f995fd8
 }
