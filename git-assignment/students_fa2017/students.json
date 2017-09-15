@@ -27,6 +27,7 @@
   "arunsundark":{"file":"arunsundark.json","name":"Arunsundar Kannan"},
   "viprajapatil":{"file":"viprajapatil.json","name":"Vipraja Patil"},
   "knagarjunareddy":{"file":"knagarjunareddy.json","name":"Nagarjuna Reddy Kovuru"},
+<<<<<<< 99eb8c5486eef43aa5b2c676db146ecffe63cdb5
   "Srikantgaikwad":{"file":"Srga5503.json", "name":"Srikant Gaikwad"},
   "AshishTak":{"file":"AshishTak.json","name":"Ashish Tak"},
   "mansetagunj":{"file":"mansetagunj.json","name":"Gunj Manseta"},
@@ -38,4 +39,12 @@
   "DiptarshiC":{"file":"DiptarshiC.json","name":"Diptarshi Chakraborty"},
   "NikhilDivekar7":{"file":"NikhilDivekar7.json","name":"Nikhil Divekar"},
   "smitesh07":{"file":"smitesh07.json","name":"Smitesh Modak"}
+=======
+>>>>>>> Adding knagarjunareddy to the students.json
+
+"Srikantgaikwad":{"file":"Srga5503.json", "name":"Srikant Gaikwad"},
+  "vipulgpt10":{"file":"vipulgpt10.json","name":"Vipul Gupta"}
+
+>>>>>>> Adding username to the students.json
+  "vipulgpt10":{"file":"vipulgpt10.json","name":"Vipul Gupta"}
 }
