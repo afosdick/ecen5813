@@ -25,6 +25,10 @@
   "glfe9139":{"file":"glfe9139.json","name":"Glenn Feinberg"},
   "sowmya2910":{"file":"sowmya2910.json","name":"Sowmya Ramakrishnan"},
   "arunsundark":{"file":"arunsundark.json","name":"Arunsundar Kannan"},
+<<<<<<< HEAD
   "viprajapatil":{"file":"viprajapatil.json","name":"Vipraja Patil"}
+=======
+  "knagarjunareddy":{"file":"knagarjunareddy.json","name":"Nagarjuna Reddy Kovuru"},
+>>>>>>> Adding knagarjunareddy to the students.json
 
 }
