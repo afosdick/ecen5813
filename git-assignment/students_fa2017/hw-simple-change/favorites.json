@@ -30,6 +30,7 @@
   {"glfe9139":{"movie":"Gladiator", "show":"Game of Thrones", "game":"Super Smash Bros"}},
   {"vikrantwaje":{"movie":"deadsilence","show":"pokemon","game":"Cricket"}},
   {"Vikrant":{"movie":"godfather","show":"pokemon","game":"Cricket"}},
+<<<<<<< 6192d8d4c17e640d4a8d4a0e378c4811b5ce90c0
   {"viprajapatil":{"movie":"The Hangover","show":"Game of thrones","game":"GTA"}},
   {"preshit":{"movie":"The Dark Knight","show":"Breaking Bad","game":"GTA"}},
 
@@ -37,4 +38,8 @@
     {"anku7985":{"movie":"avengers","show":"Silicon Valley","game":"Dominion"}},
     {"adamnuhaily":{"movie":"Hook","show":"Mad Men","game":"Path of Exile"}},
   {"knagarjunareddy":{"movie":"300","show":"Game of Thrones","game":"FIFA"}},
+=======
+  {"viprajapatil":{"movie":"The Hangover","show":"Game of thrones","game":"GTA"}}  
+  {"Srikantgaikwad":{"movie":"The Godfather","show":"Friends","game":"Age of Empires"}}
+>>>>>>> Adding Favorites, Before Rebase
 }
