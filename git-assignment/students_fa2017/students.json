@@ -31,6 +31,7 @@
   "Srikantgaikwad":{"file":"Srga5503.json", "name":"Srikant Gaikwad"},
   "mansetagunj":{"file":"mansetagunj.json","name":"Gunj Manseta"},
   "radu1571":{"file":"radu1571.json","name":"Ravi Dubey"}, 
+<<<<<<< 2c2179449c90614b7c5d080883ed38b29edc80f8
   "sharan":{"file":"sharan.json","name":"Sharanjeet Singh Mago"},
   "adamnuhaily":{"file":"adamnuhaily.json","name":"Adam Nuhaily"},
   "vikrantwaje":{"file":"vikrant.json","name":"Vikrant Waje"},
@@ -44,4 +45,7 @@
   "preshit":{"file":"preshit.json","name":"Preshit Harlikar"},
   "mansetagunj":{"file":"mansetagunj.json","name":"Gunj H Manseta"},
   "AshishTak":{"file":"AshishTak.json","name":"Ashish N Tak"}
+=======
+  "Sharan":{"file":"sharan.json","name":"Sharanjeet Singh Mago"}
+>>>>>>> Adding sharan to students.json
 }
