@@ -17,7 +17,7 @@ Compile a file with the native compiler:
 Compiler a file with a specific compiler:
   $ arm-linux-gnueabi-gcc main.c -o main_crossBBBsf
   $ arm-linux-gnueabihf-gcc main.c -o main_crossBBBhf
-  $ arm-none-eabi-gcc main.c -o main_cross -mcpu=cortex-m0plus -mthum --specs=nosys.specs
+  $ arm-none-eabi-gcc main.c -o main_cross -mcpu=cortex-m0plus -mthumb --specs=nosys.specs
 
 Copy files from your linux VM onto your BeagleBone and test that they work:
   $ scp main_crossBBBhf root@192.168.7.2:/home/debian/bin
@@ -25,9 +25,13 @@ Copy files from your linux VM onto your BeagleBone and test that they work:
   $ cd /home/debian/bin
   $ ./main_crossBBBhf
 
+Note: Your BeagleBone may have a different IP number from the above commands.
+      Recommend that you use your BeagleBone's IP number to run the above commands. 
+
 Convert your main executable file back to full system assembly file:
-  $ arm-none-eabie-objdump -D main_cross -o main_cross.asm
+  $ arm-none-eabi-objdump -D main_cross 
 
 Check the Size Utility:
-  $ arm-none-eabi-size main.o
+  $ size main_native
+  $ arm-none-eabi-size main_cross
 
