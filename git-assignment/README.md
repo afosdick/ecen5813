@@ -1,10 +1,8 @@
 ### This file is for use of the university of Colorado at Boulder Embedded Systems Engineering Professional Masters Program.
 
-### This is a free library to be used for teaching ECEN5813. 
+### This is a free library to be used for teaching ECEN5813.
 
 ### Class:  ECEN5813 - Principles of Embedded Software
-### Current Year: 2017
-### Current Semester: Fall
 
 **Adding yourself to the student files**
 
@@ -27,7 +25,7 @@
   }
   ```
 
-2) Change directories into the students_spr2017 folder and add a file with the same name as the file you put in the above code.
+2) Change directories into the students_<semester><year> folder and add a file with the same name as the file you put in the above code.
         ```
         $ cd ./students
         $ touch indentikey_username.json
