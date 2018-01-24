@@ -22,11 +22,19 @@
 		 "show":"Durarara",
 		 "game":"Horizon: Zero Dawn"
 	       }
+  },
   { "maha7523":{
                  "movie":"When Harry Met Sally",
                  "show":"Star Trek: The Next Generation",
                  "game":"Dark Souls"
                }
+  },
+  { "evsc8382":{
+		 "movie":"Interstellar",
+		 "show":"Game of Thrones",
+		 "game":"Halo"
+	       }
   }
+
 }
 
