@@ -4,5 +4,9 @@
   "rbelcher":{"file":"bbelcher.json","name":"Bob Belcher"},
   "srizor":{"file":"srizor.json","name:":"Steve Rizor"},
   "rbelcher":{"file":"tbelcher.json","name":"Tina Belcher"},
-  "semi1529":{"file":"semi1529.json","name":"Seth Miers"}
+  "semi1529":{"file":"semi1529.json","name":"Seth Miers"},
+  "kahu3362": {
+	"file": "kahu3362.json",
+	"name": "Karros Huang"
+  }
 }
