@@ -35,17 +35,21 @@
 		 "game":"Halo"
 	       }
   },
-<<<<<<< HEAD
+  { "karroshuang":{
+		"movie":"Howl's Moving Castle",
+		"show":"Game of Thrones",
+		"game":"Starcraft"
+	       }
+  },
   { "tbelcher":{
 		 "movie":"ZombieRomCom",
 		 "show":"Equestranauts",
 		 "game":"Life"
-=======
+  },
   { "superzanti":{
 		 "movie":"Tron",
 		 "show":"Nichijou",
 		 "game":"Journey"
->>>>>>> Adding Favorites, Before Rebase
 	       }
   }
 
