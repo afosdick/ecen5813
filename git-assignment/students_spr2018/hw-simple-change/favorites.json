@@ -35,10 +35,17 @@
 		 "game":"Halo"
 	       }
   },
+<<<<<<< HEAD
   { "tbelcher":{
 		 "movie":"ZombieRomCom",
 		 "show":"Equestranauts",
 		 "game":"Life"
+=======
+  { "superzanti":{
+		 "movie":"Tron",
+		 "show":"Nichijou",
+		 "game":"Journey"
+>>>>>>> Adding Favorites, Before Rebase
 	       }
   }
 
