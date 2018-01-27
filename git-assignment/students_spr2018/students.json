@@ -1,8 +1,10 @@
 {
   "afosdick":{"file":"afosdick.json","name":"Alex Fosdick"},
+  "semi1529":{"file":"semi1529.json","name":"Seth Miers"},
   "rsanchez":{"file":"rsanchez.json","name":"Rick Sanchez"},
   "rbelcher":{"file":"bbelcher.json","name":"Bob Belcher"},
   "srizor":{"file":"srizor.json","name:":"Steve Rizor"},
+<<<<<<< HEAD
   "rbelcher":{"file":"tbelcher.json","name":"Tina Belcher"},
   "semi1529":{"file":"semi1529.json","name":"Seth Miers"},
   "kahu3362": {
@@ -14,4 +16,7 @@
   "maha7523":{"file":"maha7523.json","name":"Matthew Haney"},
   "gina7141":{"file":"gina7141.json","name":"Girish Narayanswamy"},
   "shreya1809":{"file":"shreya1809.json","name":"Shreya Chakraborty"}
+=======
+  "rbelcher":{"file":"tbelcher.json","name":"Tina Belcher"}
+>>>>>>> Adding username to the students.json
 }
