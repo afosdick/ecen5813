@@ -6,7 +6,6 @@
   "srizor":{"file":"srizor.json","name:":"Steve Rizor"},
   "rbelcher":{"file":"tbelcher.json","name":"Tina Belcher"},
   "semi1529":{"file":"semi1529.json","name":"Seth Miers"},
-<<<<<<< HEAD
   "kahu3362": {"file": "kahu3362.json","name": "Karros Huang"},
   "trle7983":{"file":"trle7983.json","name":"Tristan Lennertz"},
   "evsc8382":{"file":"evsc8382.json","name":"Evan Schomer (attempt 2)"},
@@ -15,6 +14,4 @@
   "shreya1809":{"file":"shreya1809.json","name":"Shreya Chakraborty"},
   "stbo6102":{"file": "stbo6102.json","name": "Stephen Bowen"},
   "jaca7674":{"file":"jaca7674.json","name":"Jake Cazden"}
-=======
->>>>>>> Adding username to the students.json
 }
